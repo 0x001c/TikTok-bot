@@ -34,5 +34,7 @@
 
 ##  Credits:
 ```
-  * Created by Wizz1337
+  * Created by Xin1337 / Wizz1337 
+  * His btc 
+  * BTC : bc1q7qetejfa3q8ukkqcn3ct9fctcah34q2rlvvnl4 / 
 ```
