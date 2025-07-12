@@ -1,10 +1,3 @@
-## Pasted by 0x001c
-```
-  * There are better colors in this bot
-
-```
-
-
 ## Installation
 ```
   * pip install requests pystyle
